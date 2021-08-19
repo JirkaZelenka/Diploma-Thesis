@@ -1,14 +1,10 @@
 Master's Thesis
 Jiri Zelenka
-January 2020
+July 2021
 
-* Updated 7.3.2020, Factors and Stocks uploaded
-* Updated 1.10.2020  with 3 notebooks - Scraping, Preprocessing, Modelling
+* Updated 7.7.2021, FAll the data uploaded
+* Updated 7.7.2021  with 3 notebooks - Scraping, Preprocessing, Modelling
 
-TBD:
-# 7) LSTM plot - doesn't seem to be OK
-# 10) LSTM with the pure factors (no lag returns) should be estimated
-# 7)+8)+10) could be compared
 
 Python 3.6
 
